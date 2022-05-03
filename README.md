@@ -1,6 +1,6 @@
 
 
-Sparsh Gupta s3810922@student.rmit.edu.au
+Sparsh Gupta 
 
 This project contains the individual enhancement for Milestone 3
 
@@ -11,3 +11,5 @@ Minor Enhancements
 
 Major Enhancements
 1) 3-4 Player Game
+
+To launch the program type "./qwirkle" on terminal
