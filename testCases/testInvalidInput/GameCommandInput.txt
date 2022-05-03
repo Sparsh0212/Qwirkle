@@ -1,0 +1,4 @@
+2
+testCases/testSave/save4GameFile.txt
+REPLACE R2
+quit

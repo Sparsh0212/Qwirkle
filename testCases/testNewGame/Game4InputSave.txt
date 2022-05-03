@@ -1,0 +1,9 @@
+1
+4
+A
+B
+C
+D
+save
+testCases/testSave/Game4InputSaveFile.txt
+quit

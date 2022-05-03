@@ -1,0 +1,4 @@
+2
+testCases/testSave/save3F.txt
+place R1 at N12
+quit

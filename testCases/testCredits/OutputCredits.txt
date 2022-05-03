@@ -1,0 +1,35 @@
+Welcome to QWIRKLE!
+-------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+>[34m---------------------------------------------
+Name: Aiden Perona
+Student ID: s3539619
+Email Address: s3539619@student.rmit.edu.au
+ 
+Name: Deshan Adihetty
+Student ID: s3854348
+Email Address: s3854348@student.rmit.edu.au
+ 
+Name: Edmund Boon Qing Tan
+Student ID: s3698291
+Email Address: s3698291@student.rmit.edu.au
+ 
+Name: Sparsh Gupta
+Student ID: s3810922
+Email Address: s3810922@student.rmit.edu.au
+---------------------------------------------
+
+
+[0mMenu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+>Goodbye 

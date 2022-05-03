@@ -1,0 +1,4 @@
+2
+testCases/testSave/Game4InputSaveFile.txt
+place O3 at N13
+quit
